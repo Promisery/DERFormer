@@ -2,6 +2,10 @@
 
 This repository is the official implementation of the paper **DERFormer: Driver Emotion Recognition Transformer via Dual Feature Enhancement for Driver Monitoring System**.
 
+## Prepare
+
+Download pretrained weights (`ir101.pt`, `pe.pt` and `vit.pt`) from https://huggingface.co/TTJiang/DERFormer and place them into `./pretrained_weights`
+
 ## Run
 
 ```
